@@ -1,0 +1,29 @@
+h1{
+    color:purple;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    
+}
+
+h2{
+    font-family: unset;
+    color: brown;
+}
+body{background-color: burlywood;}
+
+h3{
+    color: chocolate;
+    
+
+}
+body{
+    background-color: rosybrown;
+}
+
+img{
+
+    height: 20%;
+ 
+    width: 20%;
+ 
+ }

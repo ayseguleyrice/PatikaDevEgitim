@@ -1,0 +1,21 @@
+
+img{
+
+    height: 60%;
+ 
+    width: 60%;
+ 
+ }
+ body{
+     background-color: tomato;
+
+ }
+ h2{
+     font-family: fantasy;
+     font-style: oblique;
+     color: pink;
+ }
+p{
+    font-style: inherit;
+    font-family: monospace;
+}
